@@ -1,0 +1,1 @@
+print("This file implements lesson 01.")
